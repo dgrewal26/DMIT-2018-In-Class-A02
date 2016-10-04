@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace eRestaurant.Entities
 {
-    class MenuCategory
+    public class MenuCategory
     {
 
         public int MenuCategoryID { get; set; }
